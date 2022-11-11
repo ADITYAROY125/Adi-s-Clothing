@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: skyblue;
+}
+.brand1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.brand1 img{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
